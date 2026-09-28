@@ -14,5 +14,3 @@ sources:
             error_after: 
               count: 24
               period: hour
-            
-            
