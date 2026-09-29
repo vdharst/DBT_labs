@@ -14,7 +14,7 @@ sources:
       loaded_at_field: _etl_loaded_at 
     tables:
       - name: customers
-        description: randstr()aw customer data.
+        description: Raw customer data.
         columns:
           - name: id
             description: primary key for customer data
